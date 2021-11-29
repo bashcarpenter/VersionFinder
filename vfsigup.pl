@@ -368,4 +368,3 @@ sub whmcs_json {
 	}
 	$SIGNATURES->{whmcs}->{notices} = $eols;
 }
-
