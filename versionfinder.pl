@@ -24,7 +24,7 @@ our $NOEMPTYREPORT;
 our $RESULTS;
 
 #Automated Updates
-our $REPO = "https://raw.githubusercontent.com/JamesDooley/VersionFinder/master";
+our $REPO = "https://raw.githubusercontent.com/bashcarpenter/VersionFinder/master";
 our $UpdateCheckTime = 43200; # 12 hours
 
 our @OARGV = @ARGV;
